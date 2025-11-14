@@ -13,23 +13,24 @@ To study the problem statement and draw all the UML diagrams of Railway Reservat
 7. Step 7 - Save and export diagrams as images or PDF.
 
 # DIAGRAMS:
-### DIAGRAM 1 - USE CASE
-![UseCaseDiagram1](https://github.com/user-attachments/assets/2cf97d8f-54d7-4cc8-a0de-633642f1e8c1)
 
-### DIAGRAM 2 - CLASS
-![ClassDiagram1](https://github.com/user-attachments/assets/170a5abd-ad03-4aec-aafc-82851b73474c)
+# USECASE DIAGRAM:
+![UseCaseDiagram1](https://github.com/user-attachments/assets/5adb25de-b9cd-413f-b5a0-856fbc9a2311)
 
-### DIAGRAM 3 - ACTIVITY
-![ActivityDiagram1](https://github.com/user-attachments/assets/266dab8e-2def-4b09-8642-18b990ec2a38)
+# CLASS DIAGRAM:
+![ClassDiagram1](https://github.com/user-attachments/assets/ed30a8a3-4e2c-472f-8723-4111cd343ff4)
 
-### DIAGRAM 4 - SEQUENCE
-![SequenceDiagram1](https://github.com/user-attachments/assets/40a90a6f-85fd-4edf-857c-79370228d955)
+# PACKAGE DIAGRAM:
+![PackageDiagram1](https://github.com/user-attachments/assets/517b7197-b205-43b8-97b1-24250769d34a)
 
-### DIAGRAM 5 - PACKAGE
-![PackageDiagram1](https://github.com/user-attachments/assets/d61769a9-8192-4859-9262-751517bbe00f)
+# SEQUENCE DIAGRAM:
+![SequenceDiagram1](https://github.com/user-attachments/assets/9355e8e5-b2db-4439-889a-7df9e46ae9ad)
 
-### DIAGRAM 6 - COMMUNICATION
-![CommunicationDiagram1](https://github.com/user-attachments/assets/6720cf7f-f853-43f1-9f94-590d37bf0e79)
+# COMMUNICATION DIAGRAM:
+![CommunicationDiagram1](https://github.com/user-attachments/assets/1ac459da-9ae1-4053-a414-8c3aad1d11c0)
+
+# ACTIVITY DIAGRAM:
+![ActivityDiagram1](https://github.com/user-attachments/assets/8515b4d6-b1bd-46fc-9d2f-75fb4e2bbb1d)
 
 # RESULT:
-Thus, the Railway Reservation System was created successfully.
+Thus, the UML diagrams for Railway Management System has been created successfully
